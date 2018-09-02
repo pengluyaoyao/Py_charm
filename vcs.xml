@@ -38,6 +38,10 @@
           <option name="url" value="https://github.com/pengluyaoyao/py" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pengluyaoyao/Bokeh_Stock" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
