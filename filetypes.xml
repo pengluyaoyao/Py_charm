@@ -5,7 +5,6 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="PR_git" type="PLAIN_TEXT" />
       <mapping pattern="questions and solutions" type="PLAIN_TEXT" />
-      <mapping ext="r" type="PLAIN_TEXT" />
       <mapping ext="sav" type="PLAIN_TEXT" />
       <mapping pattern="SQL" type="SQL" />
     </extensionMap>
