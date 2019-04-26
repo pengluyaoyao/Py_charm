@@ -56,6 +56,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Rnalytics" />
   </component>
 </application>
